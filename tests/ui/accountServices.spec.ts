@@ -58,11 +58,5 @@ test('search transactions via API', async ({ request }) => {
     expect(responseData[0].accountId).toEqual(Number(accountNumber))
     expect(responseData[0].amount).toEqual(20.00)
     expect(responseData[0].description).toEqual(`Bill Payment to ${payeeName}`)
-
-
-
-
-
-
 })
 
