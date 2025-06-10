@@ -1,0 +1,26 @@
+{
+  "name": "fabric-code-challege",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premsundarraj/fabric-code-challege.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premsundarraj/fabric-code-challege/issues"
+  },
+  "homepage": "https://github.com/premsundarraj/fabric-code-challege#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.30"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "dotenv": "^16.5.0"
+  }
+}
